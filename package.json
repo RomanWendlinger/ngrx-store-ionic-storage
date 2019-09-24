@@ -1,6 +1,6 @@
 {
   "name": "ngrx-store-ionic-storage",
-  "version": "4.2.0",
+  "version": "8.0.1",
   "description": "Simple storage syncing between @ngrx/store and @ionic/storage.",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natural-apptitude/ngrx-store-ionic-storage.git"
+    "url": "git+https://github.com/RomanWendlinger/ngrx-store-ionic-storage.git"
   },
   "keywords": [
     "redux",
@@ -23,9 +23,9 @@
   "author": "Natural Apptitude Ltd.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/natural-apptitude/ngrx-store-ionic-storage/issues"
+    "url": "https://github.com/RomanWendlinger/ngrx-store-ionic-storage/issues"
   },
-  "homepage": "https://github.com/natural-apptitude/ngrx-store-ionic-storage#readme",
+  "homepage": "https://github.com/RomanWendlinger/ngrx-store-ionic-storage#readme",
   "files": [
     "dist"
   ],
